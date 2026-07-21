@@ -5,10 +5,10 @@ I build **web applications** and **scalable systems**, with focus on **clean cod
 
 Currently working with **React**, **Node.js**, and cloud-native tooling.
 
-- 🔭 Current focus: **Fullstack development**, **system design**, and **DevOps automation**
+- 🔭 Current focus: **Fullstack development**, **system design**, and **automation**
 - 🧠 Engineering practices: **Clean Architecture**, **SOLID**, **TDD**, **Design Patterns**
 - ⚙️ Main stack: **TypeScript, React, Node.js, Go**
-- 📫 Contact: **gustavo.lubacheski@email.com**
+- 📫 Contact: **gustavo_kl@outlook.com**
 
 ---
 
@@ -30,5 +30,3 @@ Calculator with dark theme, power/root operations, keyboard support, and clean s
 **Tooling:** Git, TDD, Clean Architecture
 
 ---
-
-![GustavoKL1's Stats](https://github-readme-stats.vercel.app/api?username=GustavoKL1&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
